@@ -1,0 +1,31 @@
+  System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  lab_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Eсть ли публичные конструкторы:
+  True
+Извлекает все общедоступные публичные методы:
+  lab_11.Computer get_Name
+  lab_11.Computer set_Name
+  lab_11.Computer get_Type
+  lab_11.Computer set_Type
+  lab_11.Computer get_Price
+  lab_11.Computer set_Price
+  lab_11.Computer SomeOperation
+  lab_11.Computer Show
+  lab_11.Computer ToString
+  System.Object GetType
+  System.Object Equals
+  System.Object GetHashCode
+Получает информацию о полях и свойствах класса: 
+  <Name>k__BackingField
+  <Type>k__BackingField
+  <Price>k__BackingField
+  String Name
+  String Type
+  Int32 Price
+Получает все реализованные классом интерфейсы: 
+  IComputer
+Выводит по имени класса имена методов, которые содержат заданный (пользователем) тип параметра: 
+  set_Name
+  set_Type
+  SomeOperation
+Метод Invoke, который вызывает метод класса: 

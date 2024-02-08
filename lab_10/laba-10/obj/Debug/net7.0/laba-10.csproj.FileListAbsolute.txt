@@ -1,0 +1,14 @@
+D:\University\OOP\laba-10\laba-10\bin\Debug\net7.0\laba-10.exe
+D:\University\OOP\laba-10\laba-10\bin\Debug\net7.0\laba-10.deps.json
+D:\University\OOP\laba-10\laba-10\bin\Debug\net7.0\laba-10.runtimeconfig.json
+D:\University\OOP\laba-10\laba-10\bin\Debug\net7.0\laba-10.dll
+D:\University\OOP\laba-10\laba-10\bin\Debug\net7.0\laba-10.pdb
+D:\University\OOP\laba-10\laba-10\obj\Debug\net7.0\laba-10.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\OOP\laba-10\laba-10\obj\Debug\net7.0\laba-10.AssemblyInfoInputs.cache
+D:\University\OOP\laba-10\laba-10\obj\Debug\net7.0\laba-10.AssemblyInfo.cs
+D:\University\OOP\laba-10\laba-10\obj\Debug\net7.0\laba-10.csproj.CoreCompileInputs.cache
+D:\University\OOP\laba-10\laba-10\obj\Debug\net7.0\laba-10.dll
+D:\University\OOP\laba-10\laba-10\obj\Debug\net7.0\refint\laba-10.dll
+D:\University\OOP\laba-10\laba-10\obj\Debug\net7.0\laba-10.pdb
+D:\University\OOP\laba-10\laba-10\obj\Debug\net7.0\laba-10.genruntimeconfig.cache
+D:\University\OOP\laba-10\laba-10\obj\Debug\net7.0\ref\laba-10.dll

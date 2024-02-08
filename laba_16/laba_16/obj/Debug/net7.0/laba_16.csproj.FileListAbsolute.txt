@@ -1,0 +1,14 @@
+D:\University\OOP\laba_16\laba_16\bin\Debug\net7.0\laba_16.exe
+D:\University\OOP\laba_16\laba_16\bin\Debug\net7.0\laba_16.deps.json
+D:\University\OOP\laba_16\laba_16\bin\Debug\net7.0\laba_16.runtimeconfig.json
+D:\University\OOP\laba_16\laba_16\bin\Debug\net7.0\laba_16.dll
+D:\University\OOP\laba_16\laba_16\bin\Debug\net7.0\laba_16.pdb
+D:\University\OOP\laba_16\laba_16\obj\Debug\net7.0\laba_16.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\OOP\laba_16\laba_16\obj\Debug\net7.0\laba_16.AssemblyInfoInputs.cache
+D:\University\OOP\laba_16\laba_16\obj\Debug\net7.0\laba_16.AssemblyInfo.cs
+D:\University\OOP\laba_16\laba_16\obj\Debug\net7.0\laba_16.csproj.CoreCompileInputs.cache
+D:\University\OOP\laba_16\laba_16\obj\Debug\net7.0\laba_16.dll
+D:\University\OOP\laba_16\laba_16\obj\Debug\net7.0\refint\laba_16.dll
+D:\University\OOP\laba_16\laba_16\obj\Debug\net7.0\laba_16.pdb
+D:\University\OOP\laba_16\laba_16\obj\Debug\net7.0\laba_16.genruntimeconfig.cache
+D:\University\OOP\laba_16\laba_16\obj\Debug\net7.0\ref\laba_16.dll

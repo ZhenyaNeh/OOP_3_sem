@@ -1,0 +1,8 @@
+D:\University\OOP\Lab_01\Third_Exercises\bin\Debug\Third_Exercises.exe.config
+D:\University\OOP\Lab_01\Third_Exercises\bin\Debug\Third_Exercises.exe
+D:\University\OOP\Lab_01\Third_Exercises\bin\Debug\Third_Exercises.pdb
+D:\University\OOP\Lab_01\Third_Exercises\obj\Debug\Third_Exercises.csproj.AssemblyReference.cache
+D:\University\OOP\Lab_01\Third_Exercises\obj\Debug\Third_Exercises.csproj.SuggestedBindingRedirects.cache
+D:\University\OOP\Lab_01\Third_Exercises\obj\Debug\Third_Exercises.csproj.CoreCompileInputs.cache
+D:\University\OOP\Lab_01\Third_Exercises\obj\Debug\Third_Exercises.exe
+D:\University\OOP\Lab_01\Third_Exercises\obj\Debug\Third_Exercises.pdb

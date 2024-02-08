@@ -1,0 +1,8 @@
+D:\University\OOP\laba_02\laba_02\bin\Debug\laba_02.exe.config
+D:\University\OOP\laba_02\laba_02\bin\Debug\laba_02.exe
+D:\University\OOP\laba_02\laba_02\bin\Debug\laba_02.pdb
+D:\University\OOP\laba_02\laba_02\obj\Debug\laba_02.csproj.AssemblyReference.cache
+D:\University\OOP\laba_02\laba_02\obj\Debug\laba_02.csproj.SuggestedBindingRedirects.cache
+D:\University\OOP\laba_02\laba_02\obj\Debug\laba_02.csproj.CoreCompileInputs.cache
+D:\University\OOP\laba_02\laba_02\obj\Debug\laba_02.exe
+D:\University\OOP\laba_02\laba_02\obj\Debug\laba_02.pdb

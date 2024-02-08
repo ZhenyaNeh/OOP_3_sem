@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <cost>12</cost>
+    <PublishType>книга</PublishType>
+    <Cost>12</Cost>
+    <CountPages>100</CountPages>
+    <genre>фанатастика</genre>
+    <PrintedEdition>
+      <cost>12</cost>
+      <PublishType>книга</PublishType>
+      <Cost>12</Cost>
+      <CountPages>100</CountPages>
+    </PrintedEdition>
+    <Genre>фанатастика</Genre>
+  </Book>
+  <Book>
+    <cost>12</cost>
+    <PublishType>журнал</PublishType>
+    <Cost>12</Cost>
+    <CountPages>100</CountPages>
+    <genre>новости</genre>
+    <PrintedEdition>
+      <cost>12</cost>
+      <PublishType>журнал</PublishType>
+      <Cost>12</Cost>
+      <CountPages>100</CountPages>
+    </PrintedEdition>
+    <Genre>новости</Genre>
+  </Book>
+</ArrayOfBook>

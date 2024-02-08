@@ -1,0 +1,17 @@
+D:\University\OOP\lab_13\lab_13\bin\Debug\net7.0\lab_13.exe
+D:\University\OOP\lab_13\lab_13\bin\Debug\net7.0\lab_13.deps.json
+D:\University\OOP\lab_13\lab_13\bin\Debug\net7.0\lab_13.runtimeconfig.json
+D:\University\OOP\lab_13\lab_13\bin\Debug\net7.0\lab_13.dll
+D:\University\OOP\lab_13\lab_13\bin\Debug\net7.0\lab_13.pdb
+D:\University\OOP\lab_13\lab_13\bin\Debug\net7.0\SoapFormatter.dll
+D:\University\OOP\lab_13\lab_13\obj\Debug\net7.0\lab_13.csproj.AssemblyReference.cache
+D:\University\OOP\lab_13\lab_13\obj\Debug\net7.0\lab_13.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\OOP\lab_13\lab_13\obj\Debug\net7.0\lab_13.AssemblyInfoInputs.cache
+D:\University\OOP\lab_13\lab_13\obj\Debug\net7.0\lab_13.AssemblyInfo.cs
+D:\University\OOP\lab_13\lab_13\obj\Debug\net7.0\lab_13.csproj.CoreCompileInputs.cache
+D:\University\OOP\lab_13\lab_13\obj\Debug\net7.0\lab_13.csproj.CopyComplete
+D:\University\OOP\lab_13\lab_13\obj\Debug\net7.0\lab_13.dll
+D:\University\OOP\lab_13\lab_13\obj\Debug\net7.0\refint\lab_13.dll
+D:\University\OOP\lab_13\lab_13\obj\Debug\net7.0\lab_13.pdb
+D:\University\OOP\lab_13\lab_13\obj\Debug\net7.0\lab_13.genruntimeconfig.cache
+D:\University\OOP\lab_13\lab_13\obj\Debug\net7.0\ref\lab_13.dll

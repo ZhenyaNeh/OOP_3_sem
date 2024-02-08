@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <book name="книга_1">
+    <cost>24</cost>
+    <page>400</page>
+  </book>
+  <book name="книга_2">
+    <cost>24</cost>
+    <page>500</page>
+  </book>
+</library>

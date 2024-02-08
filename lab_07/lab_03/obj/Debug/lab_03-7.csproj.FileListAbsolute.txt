@@ -1,0 +1,7 @@
+D:\University\OOP\lab_03 - 7\lab_03\bin\Debug\lab_03.exe.config
+D:\University\OOP\lab_03 - 7\lab_03\bin\Debug\lab_03.exe
+D:\University\OOP\lab_03 - 7\lab_03\bin\Debug\lab_03.pdb
+D:\University\OOP\lab_03 - 7\lab_03\obj\Debug\lab_03-7.csproj.AssemblyReference.cache
+D:\University\OOP\lab_03 - 7\lab_03\obj\Debug\lab_03-7.csproj.CoreCompileInputs.cache
+D:\University\OOP\lab_03 - 7\lab_03\obj\Debug\lab_03.exe
+D:\University\OOP\lab_03 - 7\lab_03\obj\Debug\lab_03.pdb

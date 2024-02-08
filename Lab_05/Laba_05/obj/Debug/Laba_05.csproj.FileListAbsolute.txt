@@ -1,0 +1,8 @@
+D:\University\OOP\Laba_05\Laba_05\bin\Debug\Laba_05.exe.config
+D:\University\OOP\Laba_05\Laba_05\bin\Debug\Laba_05.exe
+D:\University\OOP\Laba_05\Laba_05\bin\Debug\Laba_05.pdb
+D:\University\OOP\Laba_05\Laba_05\obj\Debug\Laba_05.csproj.AssemblyReference.cache
+D:\University\OOP\Laba_05\Laba_05\obj\Debug\Laba_05.csproj.SuggestedBindingRedirects.cache
+D:\University\OOP\Laba_05\Laba_05\obj\Debug\Laba_05.csproj.CoreCompileInputs.cache
+D:\University\OOP\Laba_05\Laba_05\obj\Debug\Laba_05.exe
+D:\University\OOP\Laba_05\Laba_05\obj\Debug\Laba_05.pdb

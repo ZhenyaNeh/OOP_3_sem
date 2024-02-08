@@ -1,0 +1,14 @@
+D:\University\OOP\lab_12\lab_12\bin\Debug\net7.0\lab_12.exe
+D:\University\OOP\lab_12\lab_12\bin\Debug\net7.0\lab_12.deps.json
+D:\University\OOP\lab_12\lab_12\bin\Debug\net7.0\lab_12.runtimeconfig.json
+D:\University\OOP\lab_12\lab_12\bin\Debug\net7.0\lab_12.dll
+D:\University\OOP\lab_12\lab_12\bin\Debug\net7.0\lab_12.pdb
+D:\University\OOP\lab_12\lab_12\obj\Debug\net7.0\lab_12.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\OOP\lab_12\lab_12\obj\Debug\net7.0\lab_12.AssemblyInfoInputs.cache
+D:\University\OOP\lab_12\lab_12\obj\Debug\net7.0\lab_12.AssemblyInfo.cs
+D:\University\OOP\lab_12\lab_12\obj\Debug\net7.0\lab_12.csproj.CoreCompileInputs.cache
+D:\University\OOP\lab_12\lab_12\obj\Debug\net7.0\lab_12.dll
+D:\University\OOP\lab_12\lab_12\obj\Debug\net7.0\refint\lab_12.dll
+D:\University\OOP\lab_12\lab_12\obj\Debug\net7.0\lab_12.pdb
+D:\University\OOP\lab_12\lab_12\obj\Debug\net7.0\lab_12.genruntimeconfig.cache
+D:\University\OOP\lab_12\lab_12\obj\Debug\net7.0\ref\lab_12.dll

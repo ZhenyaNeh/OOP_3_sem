@@ -1,0 +1,14 @@
+D:\University\OOP\laba_06\laba_06\bin\Debug\laba_06.exe.config
+D:\University\OOP\laba_06\laba_06\bin\Debug\laba_06.exe
+D:\University\OOP\laba_06\laba_06\bin\Debug\laba_06.pdb
+D:\University\OOP\laba_06\laba_06\obj\Debug\laba_06.csproj.AssemblyReference.cache
+D:\University\OOP\laba_06\laba_06\obj\Debug\laba_06.csproj.CoreCompileInputs.cache
+D:\University\OOP\laba_06\laba_06\obj\Debug\laba_06.exe
+D:\University\OOP\laba_06\laba_06\obj\Debug\laba_06.pdb
+D:\University\OOP\lab_06\laba_06\bin\Debug\laba_06.exe.config
+D:\University\OOP\lab_06\laba_06\bin\Debug\laba_06.exe
+D:\University\OOP\lab_06\laba_06\bin\Debug\laba_06.pdb
+D:\University\OOP\lab_06\laba_06\obj\Debug\laba_06.csproj.AssemblyReference.cache
+D:\University\OOP\lab_06\laba_06\obj\Debug\laba_06.csproj.CoreCompileInputs.cache
+D:\University\OOP\lab_06\laba_06\obj\Debug\laba_06.exe
+D:\University\OOP\lab_06\laba_06\obj\Debug\laba_06.pdb

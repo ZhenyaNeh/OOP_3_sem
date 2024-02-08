@@ -1,0 +1,14 @@
+D:\University\OOP\laba_17-18\laba_17-18\bin\Debug\net7.0\laba_17-18.exe
+D:\University\OOP\laba_17-18\laba_17-18\bin\Debug\net7.0\laba_17-18.deps.json
+D:\University\OOP\laba_17-18\laba_17-18\bin\Debug\net7.0\laba_17-18.runtimeconfig.json
+D:\University\OOP\laba_17-18\laba_17-18\bin\Debug\net7.0\laba_17-18.dll
+D:\University\OOP\laba_17-18\laba_17-18\bin\Debug\net7.0\laba_17-18.pdb
+D:\University\OOP\laba_17-18\laba_17-18\obj\Debug\net7.0\laba_17-18.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\OOP\laba_17-18\laba_17-18\obj\Debug\net7.0\laba_17-18.AssemblyInfoInputs.cache
+D:\University\OOP\laba_17-18\laba_17-18\obj\Debug\net7.0\laba_17-18.AssemblyInfo.cs
+D:\University\OOP\laba_17-18\laba_17-18\obj\Debug\net7.0\laba_17-18.csproj.CoreCompileInputs.cache
+D:\University\OOP\laba_17-18\laba_17-18\obj\Debug\net7.0\laba_17-18.dll
+D:\University\OOP\laba_17-18\laba_17-18\obj\Debug\net7.0\refint\laba_17-18.dll
+D:\University\OOP\laba_17-18\laba_17-18\obj\Debug\net7.0\laba_17-18.pdb
+D:\University\OOP\laba_17-18\laba_17-18\obj\Debug\net7.0\laba_17-18.genruntimeconfig.cache
+D:\University\OOP\laba_17-18\laba_17-18\obj\Debug\net7.0\ref\laba_17-18.dll

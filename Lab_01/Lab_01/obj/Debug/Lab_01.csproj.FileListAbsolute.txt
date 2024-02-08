@@ -1,0 +1,8 @@
+D:\University\OOP\Lab_01\Lab_01\bin\Debug\Lab_01.exe.config
+D:\University\OOP\Lab_01\Lab_01\bin\Debug\Lab_01.exe
+D:\University\OOP\Lab_01\Lab_01\bin\Debug\Lab_01.pdb
+D:\University\OOP\Lab_01\Lab_01\obj\Debug\Lab_01.csproj.AssemblyReference.cache
+D:\University\OOP\Lab_01\Lab_01\obj\Debug\Lab_01.csproj.SuggestedBindingRedirects.cache
+D:\University\OOP\Lab_01\Lab_01\obj\Debug\Lab_01.csproj.CoreCompileInputs.cache
+D:\University\OOP\Lab_01\Lab_01\obj\Debug\Lab_01.exe
+D:\University\OOP\Lab_01\Lab_01\obj\Debug\Lab_01.pdb
